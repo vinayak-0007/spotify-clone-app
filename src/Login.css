@@ -1,11 +1,12 @@
 .login{
-  display: grid;
+  display: flex;
+  flex-direction: column;
   place-items: center;
   height: 100vh;
   background-color: black;
 }
 .login img{
-  width: 100%;
+  width: 95%;
 }
 .login a{
   padding :20px;
@@ -14,4 +15,5 @@
   font-weight: 800;
   color: white;
   text-decoration: none;
+  margin-bottom: 100px;
 }
