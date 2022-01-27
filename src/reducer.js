@@ -6,7 +6,7 @@ export const initialState = {
   spotify: null,
   top_artists: null,
   discover_weekly:null,
-  token:"BQAEGZDr8wbq4xy6tPa1ExwZ-OauEQ9mdmpjeRvkUEMnu7i7UQRoFKO3siX1Q9tMXhFIhYAnAzmqokiwUgpz2jklSls8Ewvx-2KLlmV0zWf_G1zaR3uZxBxNDm12Jo3gWryYX6blkZAhq14d3U8TNm3M_iui9bo5VD0mzD1K5Xl4iJa5",
+  //token:"BQAEGZDr8wbq4xy6tPa1ExwZ-OauEQ9mdmpjeRvkUEMnu7i7UQRoFKO3siX1Q9tMXhFIhYAnAzmqokiwUgpz2jklSls8Ewvx-2KLlmV0zWf_G1zaR3uZxBxNDm12Jo3gWryYX6blkZAhq14d3U8TNm3M_iui9bo5VD0mzD1K5Xl4iJa5",
 
 };
 
